@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Spartanlasergun
-- 👀 I’m interested in everything really. 
-- 🌱 I’m currently learning python and java.
-- 💞️ I’m looking to collaborate on indie game building
+- 👋 Hi, I’m Narendra Singh
+- 👀 I’m interested in almost everything.
+- 🌱 I’m a Pythoneer currently learning Java.
+- 💞️ I’m looking to collaborate on indie game building or anything interesting.
 - 📫 If you want to contact me just send a message on github or email me: bns360@live.com
 
 <!---
