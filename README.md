@@ -1,3 +1,5 @@
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/bns360)
+
 - 👋 Hi, I’m Narendra Singh
 - 👀 I’m interested in almost everything.
 - 🌱 I’m a Pythoneer currently learning Java.
