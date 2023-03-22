@@ -2,8 +2,8 @@
 
 - 👋 Hi, I’m Narendra Singh
 - 👀 I’m interested in almost everything.
-- 🌱 I’m a Pythoneer currently learning Java.
-- 💞️ I’m looking to collaborate on indie game building or anything interesting.
+- 🌱 I’m a Pythoneer currently learning Javascript.
+- 💞️ I’m looking to collaborate on anything interesting.
 - 📫 If you want to contact me just send an email: bns360@live.com
 
 <!---
