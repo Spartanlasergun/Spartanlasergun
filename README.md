@@ -4,7 +4,7 @@
 
 ##### 🌱 Python is my main programming language.
 
-##### 💞️ I’m looking to collaborate on anything interesting.
+##### 💞️ If you want to collaborate on something just email me - but I'm usually busy.
 
 <!---
 Spartanlasergun/Spartanlasergun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
