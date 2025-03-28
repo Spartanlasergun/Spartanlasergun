@@ -32,6 +32,9 @@ Outside of data, I enjoy dabbling in GUI development and building simple website
 ![Narendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Spartanlasergun&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Spartanlasergun&layout=compact&theme=tokyonight)
 
+![Trophies](https://github-profile-trophy.vercel.app/?username=Spartanlasergun&theme=tokyonight&no-frame=true&row=1)
+
+
 ---
 
 ### 🌟 Featured Projects
