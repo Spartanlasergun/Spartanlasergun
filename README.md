@@ -31,14 +31,6 @@ Outside of data, I enjoy dabbling in GUI development and building simple website
 
 ---
 
-### 😂 Random Programming Joke
-
-> Why do programmers prefer dark mode?  
-> Because light attracts bugs. 🐛
-
----
-
-
 <!---
 Spartanlasergun/Spartanlasergun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
