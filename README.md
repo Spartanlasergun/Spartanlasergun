@@ -27,16 +27,6 @@ Outside of data, I enjoy dabbling in GUI development and building simple website
 
 ---
 
-### 📈 GitHub Stats
-
-![Narendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Spartanlasergun&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Spartanlasergun&layout=compact&theme=tokyonight)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Spartanlasergun&theme=tokyonight&no-frame=true&row=1)
-
-
----
-
 ### 🌟 Featured Projects
 
 - [📅 Calendar Widget](https://github.com/Spartanlasergun/calendar_widget) — A simple and interactive calendar built with Python and Tkinter.
