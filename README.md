@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a psychologist with a strong interest in data-driven insights and human behavior.  
+I'm a psychologist with a strong focus on data-driven insights into human behavior.  
 I use Python primarily for data analysis, statistical modeling, and turning raw information into actionable understanding.
 
 Blending psychology with programming allows me to explore patterns, build tools, and solve real-world problems in meaningful ways.  
